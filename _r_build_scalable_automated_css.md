@@ -2,7 +2,8 @@
 
 ### Review of the talk "Build Scalable, Automated CSS"
 
-Below are my impressions and notes from the talk "Build Scalable, Automated CSS" at CSSConf Asia from speaker Christian Lilley. 
+Below are my impressions and notes from the talk ["Build Scalable, Automated CSS"](https://www.youtube.com/watch?v=Tk_0qYEFtAY) at CSSConf Asia from speaker Christian Lilley. 
+
 (`$speaker: "Christian Lilley"`)
 
 In his talk `$speaker` argues that just like your Javascript, your CSS should adhere to some basic programming principles such as the following:
@@ -41,4 +42,3 @@ His last point was the most interesting for me, the `$speaker` makes a compellin
 
 Overall it was a enjoyable talk, the `$speaker` was comfortable and confident in his delivery but given the amount of actual information I found the talk to be a bit too long. Also the titles that the `$speaker` choose for his talking points were a bit too cryptic (be a lover not fighter?). I had a hard time guessing what the upcoming point would be by just looking at the slide deck. Maybe his rules around naming could be extended to presentations as well.
 
-[Source](https://www.youtube.com/watch?v=Tk_0qYEFtAY)
