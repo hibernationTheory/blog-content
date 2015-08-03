@@ -2,6 +2,12 @@
 
 ### Review of the talk "Build Scalable, Automated CSS"
 
+#### tl;dr 
+
+You spend most of your time reading code, so optimize your CSS for readability. Use descriptive class names and don't restrict yourself in terms of the character length. Don't use element selectors except for reset or sitewide base styling purposes, as you would be trying yourself to a specific element and markup. Semantic markup using elements might be unnecessary given the rise of semantic attributes.
+
+#### Summary
+
 Below are my impressions and notes from the talk ["Build Scalable, Automated CSS"](https://www.youtube.com/watch?v=Tk_0qYEFtAY) at CSSConf Asia from speaker Christian Lilley. 
 
 (`$speaker: "Christian Lilley"`)
